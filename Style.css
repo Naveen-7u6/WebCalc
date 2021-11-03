@@ -56,3 +56,12 @@ button{
     border-radius: 50px;
     background-color: #ecf0f3;
 }
+
+h1{
+    display: flex;
+    font-size: 60px;
+    color: rgb(71, 68, 68);
+    justify-content: center;
+}
+
+
