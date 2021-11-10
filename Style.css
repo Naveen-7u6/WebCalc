@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     background-color:#042b49;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     outline: none;
 }
 
@@ -63,4 +62,6 @@ h1{
     font-size: 60px;
     color: #ffffff;
     justify-content: center;
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
